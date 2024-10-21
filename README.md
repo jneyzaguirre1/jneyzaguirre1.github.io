@@ -32,7 +32,7 @@ I'm a Robotics MS student at the University of Michigan. I have a background in 
     <img src="./assets/img/alien.png" alt="DeepRob" style="margin-right: 10px; width: 200px; height: 140x;">
     
 </div>
-<p>Deep Leaning class focused on robotics perception. The final project for this class involved reviewing, evaluating, and improving a recent paper. In my case, we worked on "Emerging Properties in Self-Supervised Vision Transformers (DINO)". As a group we tried to improve the work done in this paper by using a weak supervision training strategy to help stabilize the framework's sensibility to hyperparamters.
+<p>Deep Leaning class focused on robotics perception. The final project for this class involved reviewing, evaluating, and improving a recent paper. In my case, we worked on "Emerging Properties in Self-Supervised Vision Transformers (DINO)". As a group we tried to improve the work done in this paper by using a weak supervision training strategy to help stabilize the framework's sensibility to hyperparamters. Click <a href="https://github.com/jneyzaguirre1/dino_evaluation">here</a> to go to the project repo.
 </p>
 
 ## Work Projects
@@ -61,7 +61,7 @@ I'm a Robotics MS student at the University of Michigan. I have a background in 
     <img src="./assets/img/picker.jpg" alt="picker" style="margin-right: 10px; width: 200px; height: 140x;">
     
 </div>
-<p> When I started working at Oddness, my first project was to manufacture the first version of the picker-robot: an autonomous mobile robot (AMR) with a five degrees-of-freedom arm on top. It was a very challenging experience that had many design iterations, and testing at grocery stores.
+<p> When I started working at Oddness, my first project was to develop the first version of the picker-robot: an autonomous mobile robot (AMR) with a five degrees-of-freedom arm on top. It was a very challenging experience that had many design iterations, and testing at grocery stores.
 </p>
 
 ### [RFID Sensor Tower for Warehouse Invetory Tracking](https://youtu.be/xM8xKJk1jqE?si=R4uxR6jV7XnJK5Au&t=24)
