@@ -2,7 +2,7 @@
 
 I'm a Robotics MS student at the University of Michigan. I have a background in Robotics and Electrical Engineering, and I am dedicated to creating innovative robotic solutions that can bridge the gap between academic research and real-world applications. I am currently working at ROAHM (Robotics and Optimization for the Analysis of Human Motion) Lab, advised by Professor Ram Vasudevan.
 
-Contact me: [Email](mailto:jneyza@umich.edu) | [LinkedIn](https://www.linkedin.com/in/joseantonioe/) | [CV](https://drive.google.com/file/d/1Oj1l2WX7ytvlvAxrHItkPd76vWbxMbpK/view?usp=sharing)
+[Email](mailto:jneyza@umich.edu) | [LinkedIn](https://www.linkedin.com/in/joseantonioe/) | [CV](https://drive.google.com/file/d/1Oj1l2WX7ytvlvAxrHItkPd76vWbxMbpK/view?usp=sharing)
 
 # Portfolio
 
