@@ -37,7 +37,7 @@ I'm a Robotics MS student at the University of Michigan. I have a background in 
 ### Cumpa Mobile Robot
 
 <div style="display: flex; ">
-    <img src="./assets/img/picker_gripper.png" alt="cumpa" style="margin-right: 10px; width: 200px; height: auto;">
+    <img src="./assets/img/cumpa.jpg" alt="cumpa" style="margin-right: 10px; width: 200px; height: auto;">
     <p>While working at the startup Oddness Technologies, I led the hardware development of a new indoor autonomous mobile robot for the company. The goal of being a versatile mobile base to offer to our clients, capable of carrying load, sensors, or anything that fits the customers needs. I designed the electronics (PCB), mechanical structure, and firmware, and also did the initial tests of this robot.
     </p>
 </div>
@@ -53,7 +53,7 @@ I'm a Robotics MS student at the University of Michigan. I have a background in 
 ### Picker Robot
 
 <div style="display: flex; ">
-    <img src="./assets/img/picker_gripper.png" alt="picker" style="margin-right: 10px; width: 200px; height: auto;">
+    <img src="./assets/img/picker.jpg" alt="picker" style="margin-right: 10px; width: 200px; height: auto;">
     <p> When I started working at Oddness, my first project was to manufacture the first version of the picker-robot: an autonomous mobile robot (AMR) with a five degrees-of-freedom arm on top. It was a very challenging experience with many design iterations, testing at grocery stores, etc.
     </p>
 </div>
